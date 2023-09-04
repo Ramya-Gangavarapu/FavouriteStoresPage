@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Main-Bg img {
+    height: 20vw;
+    width: 10vw;
+    padding-top: 10px;
+}
+
+.BG {
+    height: 80vh;
+    width: 30vw;
+    background-size: cover;
+    background-color: #894bca;
+}
+
+.Main-Bg h3 {
+    color: white;
+    font-family: Bree Serif;
+    font-size: 35px;
+    margin: 25px;
+}
+
+.sub-bg {
+    background-color: white;
+    height: 70vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.sub-bg h1 {
+    color: #f780c3;
+    font-size: 20px;
+    font-family: Bree Serif;
+    font-weight: 500px;
+    margin-left: 15px;
+    padding-top: 15px;
+}
+
+.head h1 {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.head p {
+    color: #7b8794;
+    font-family: Roboto;
+    margin-left: 15px;
+    font-size: 10px;
+}
+
+.Card1 img {
+    height: 10vh;
+    width: 5vw;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.Card2 img {
+    height: 10vh;
+    width: 5vw;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.Card3 img {
+    height: 10vh;
+    width: 5vw;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.Card4 img {
+    height: 10vh;
+    width: 5vw;
+    margin-left: 15px;
+}
