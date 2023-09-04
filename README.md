@@ -1,1 +1,1 @@
-# FavouriteStoresPage
+# 🛍️ Favourite Stores Page
